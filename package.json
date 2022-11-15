@@ -1,0 +1,23 @@
+{
+  "name": "restapicontrolefinancas",
+  "version": "1.0.0",
+  "description": "Rest Api Controle Financas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoBarbosa88/RestApiControleFinancas.git"
+  },
+  "keywords": [],
+  "author": "Tiago Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoBarbosa88/RestApiControleFinancas/issues"
+  },
+  "homepage": "https://github.com/TiagoBarbosa88/RestApiControleFinancas#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
