@@ -1,0 +1,63 @@
+[
+    {
+        "id": "01",
+        "data": "2022-11-01",
+        "income": "Salário",
+        "current":[
+            {
+                "BRL": "1700,00"
+            }
+        ],
+        "description": ""
+
+    },
+    {
+        "id": "02",
+        "data": "2022-11-02",
+        "expense": "enel",
+        "current":[
+            {
+                "BRL": "170,00"
+            }
+        ],
+        "description": ""
+
+    },
+    {
+        "id": "03",
+        "data": "2022-11-02",
+        "expense": "sabesp",
+        "current":[
+            {
+                "BRL": "60,00"
+            }
+        ],
+        "description": ""
+
+    },
+    {
+        "id": "04",
+        "data": "2022-11-02",
+        "expense": "internet",
+        "current":[
+            {
+                "BRL": "100,00"
+            }
+        ],
+        "description": ""
+
+    },
+    {
+        "id": "02",
+        "data": "2022-11-02",
+        "expense": "enel",
+        "current":[
+            {
+                "BRL": "170,00"
+            }
+        ],
+        "description": ""
+
+    }
+
+]
